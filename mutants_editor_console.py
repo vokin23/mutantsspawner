@@ -1,5 +1,6 @@
 def receiving_mutants():
     mutabts_day = ["day", "night", "evening", "morning"]
+
     classname = input("¬ведите класснейм животного.\n")
     counts = input("¬ведите количество животного.\n")
     cords = input("¬ведите координаты животного.\n")
