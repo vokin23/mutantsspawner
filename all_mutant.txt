@@ -1,2 +1,2 @@
-Position: <2803.124124, 1, 4220.950195> Animal_CanisLupus_Grey
-Position: <2803.eqweqw, 2, 4220.950195> Animal_CanisLupus_Gre
+Position: <2803.124124, 2131241, 4220.950195> Animal_CanisLupus_Grey
+Position: <2803.eqweqw, 221312, 4220.950195> Animal_CanisLupus
